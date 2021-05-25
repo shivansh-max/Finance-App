@@ -1,0 +1,5 @@
+class ExspenseModal {
+
+    constructor() {
+    }
+}
